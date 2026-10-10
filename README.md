@@ -8,7 +8,7 @@ A compact GTK 4 and libadwaita controller for the Spotify desktop client. It rea
 - GTK 4 and libadwaita introspection bindings (`python-gobject`, `Gtk 4`, `Adw 1`)
 - Spotify desktop client running in a session with MPRIS support
 
-## Run
+## Run for Trevor Mbugua
 
 ```sh
 python3 spotify-mini-player.py
